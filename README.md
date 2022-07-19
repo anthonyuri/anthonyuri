@@ -4,7 +4,7 @@ Hi 👋 My name is Anthony Uriarte
 CS Student @ NYU
 ----------------
 
-My name is Anthony and I'm a 2nd-year student at New York University studying Computer Science and Mathematics. I really enjoy backend development and have been learning advanced algorithms and data structures with Python, PHP, SQL, and Ruby.
+My name is Anthony and I'm a 2nd-year student at New York University studying Computer Science and Mathematics. I really enjoy app and web development and have been learning advanced algorithms and data structures with Python, Java, abd React.
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [anthony.uriarte@nyu.edu](mailto:anthony.uriarte@nyu.edu)
