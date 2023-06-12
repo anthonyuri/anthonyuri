@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student @ NYU
 ----------------
 
-My name is Anthony and I'm a 2nd-year student at New York University studying Computer science and Mathematics. I really enjoy exploring all aspects of software development and have been learning advanced algorithms and data structures with Python and Java. I'm really interested in pursuing a career as a software engineer and gaining experience through internships and projects. 
+My name is Anthony and I'm a 2nd-year student at New York University studying Computer science and Mathematics. I really enjoy exploring all aspects of software development and have been learning advanced algorithms and data structures with Python and Java. I'm really interested in pursuing a career as a software engineer and gaining experience through helping with open source projects, internships, and creating my own personal projects : )
 
 *   🌍  I'm based in New York City
 *   ✉️  You can contact me at [anthony.uriarte@nyu.edu](mailto:anthony.uriarte@nyu.edu)
