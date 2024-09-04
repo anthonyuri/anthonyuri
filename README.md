@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student @ NYU
 ----------------
 
-My name is Anthony, and i'm a 3rd-year student at New York University studying Computer science and Mathematics. I really enjoy exploring all aspects of software development and have been learning advanced algorithms and data structures with Python and Java. I'm really interested in pursuing a career as a software engineer and gaining experience through helping with open source projects, internships, and creating my own personal projects : )
+My name is Anthony, and i'm a senior at New York University studying Computer science and Mathematics. I really enjoy exploring all aspects of software development, especially backend development and large scale systems and infrastructure. I'm really interested in pursuing a career as a software engineer and gaining experience through helping with open source projects, internships, and creating my own personal projects : )
 
 *   🌍  I'm based in New York City
 *   ✉️  You can contact me at [anthony.uriarte@nyu.edu](mailto:anthony.uriarte@nyu.edu)
-*   🤝  I'm open to collaborating on any interesting applications
+*   🤝  I'm open to collaborating on any interesting projects
 
 ### Skills
 
@@ -21,6 +21,3 @@ My name is Anthony, and i'm a 3rd-year student at New York University studying C
                                 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
                                 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
                     </p>
-
-### Support Me
-<a href="https://www.buymeacoffee.com/anthonyuriarte"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
