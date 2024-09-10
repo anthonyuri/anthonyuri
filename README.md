@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student @ NYU
 ----------------
 
-I'm currently a senior at New York University, majoring in Computer Science and Mathematics. My passion lies in exploring software development, particularly backend development and large-scale systems and infrastructure. Most recently, I interned as a Software Engineer at LinkedIn, where I contributed to managing and maintaining core data infrastructure by developing highly scalable distributed systems. I've also gained experience optimizing performance testing software during an internship at Liberty Mutual. I'm currently enhancing my full-stack and web development experience/learning : )
+I’m a senior at New York University studying Computer Science and Mathematics, with a passion for backend development and large-scale systems. Recently, I interned as a Software Engineer @ LinkedIn, working on scalable distributed systems to power core data infrastructure, and prevously worked on optimized performance testing software @ Liberty Mutual. Right now, I’m also enjoying diving deeper into full-stack and web development :)
 
-I’m actively seeking new grad software engineering opportunities, and I love working on open-source projects, internships, and creating personal projects to continue growing my skills.
+I’m excited about new grad software engineering opportunities and love building my skills through open-source contributions, internships, and personal projects!
 
 *   🌍  I'm based in New York City
 *   ✉️  You can contact me at [anthony.uriarte@nyu.edu](mailto:anthony.uriarte@nyu.edu)
